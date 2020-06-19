@@ -11,3 +11,9 @@ Data ingestion processor
 System interaction processor
 Attribute extractions.
 Data store or ending processor
+processor configurations:
+
+1- Scheduling
+2 - Setting
+3 - properties
+4 - comment
