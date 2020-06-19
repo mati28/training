@@ -1,0 +1,13 @@
+Nifi is a flow based programing language
+Key components of Nifi are:
+1 - FlowFile
+2 - Processors
+3 - Connection
+4 - Process group
+Category of processors:
+
+Data ingestion processor
+
+System interaction processor
+Attribute extractions.
+
